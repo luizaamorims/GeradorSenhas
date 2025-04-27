@@ -12,3 +12,18 @@
 /home/luiza/csharp/Gerador/Gerador/obj/Debug/net8.0/Gerador.pdb
 /home/luiza/csharp/Gerador/Gerador/obj/Debug/net8.0/Gerador.genruntimeconfig.cache
 /home/luiza/csharp/Gerador/Gerador/obj/Debug/net8.0/ref/Gerador.dll
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\bin\Debug\net8.0\Gerador.exe
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\bin\Debug\net8.0\Gerador.deps.json
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\bin\Debug\net8.0\Gerador.runtimeconfig.json
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\bin\Debug\net8.0\Gerador.dll
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\bin\Debug\net8.0\Gerador.pdb
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\obj\Debug\net8.0\Gerador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\obj\Debug\net8.0\Gerador.AssemblyInfoInputs.cache
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\obj\Debug\net8.0\Gerador.AssemblyInfo.cs
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\obj\Debug\net8.0\Gerador.csproj.CoreCompileInputs.cache
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\obj\Debug\net8.0\Gerador.sourcelink.json
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\obj\Debug\net8.0\Gerador.dll
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\obj\Debug\net8.0\refint\Gerador.dll
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\obj\Debug\net8.0\Gerador.pdb
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\obj\Debug\net8.0\Gerador.genruntimeconfig.cache
+C:\Users\Luiza\OneDrive\Área de Trabalho\C#\Projetos\GeradorSenhas\Gerador\obj\Debug\net8.0\ref\Gerador.dll

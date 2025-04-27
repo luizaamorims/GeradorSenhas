@@ -15,51 +15,22 @@ int tamanho = int.Parse(Console.ReadLine());
 Console.WriteLine("Deseja adicionar números? (1 para sim, 2 para não)");
 int numero = int.Parse(Console.ReadLine());
 
-if (numero == 1)
-{
-    addNumero = true;
-}
-else
-{
-    addNumero = false;
-}
+addNumero = numero == 1 ? true : false;
 
 Console.WriteLine("Deseja adicionar letras maiusculas? (1 para sim, 2 para não)");
 int maiuscusla = int.Parse(Console.ReadLine());
 
-if (maiuscusla == 1)
-{
-    addMaiuscula = true;
-}
-else
-{
-    addMaiuscula = false;
-}
-
+addMaiuscula = maiuscusla == 1 ? true : false;
 
 Console.WriteLine("Deseja adicionar letras minusculas? (1 para sim, 2 para não)");
 int minuscula = int.Parse(Console.ReadLine());
 
-if (minuscula == 1)
-{
-    addMinuscula = true;
-}
-else
-{
-    addMinuscula = false;
-}
+addMinuscula = minuscula == 1 ? true : false;
 
 Console.WriteLine("Deseja adicionar caracteres especiais? (1 para sim, 2 para não)");
 int especial = int.Parse(Console.ReadLine());
 
-if (especial == 1)
-{
-    addEspecial = true;
-}
-else
-{
-    addEspecial = false;
-}
+addEspecial = especial == 1 ? true : false;
 
 
 String numeros = "123456789";
