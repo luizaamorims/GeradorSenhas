@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2A8B911C-71B5-4872-AE6D-C4A240D2DC0C}|Gerador\\Gerador.csproj|c:\\users\\luiza\\onedrive\\\u00E1rea de trabalho\\c#\\projetos\\geradorsenhas\\gerador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A8B911C-71B5-4872-AE6D-C4A240D2DC0C}|Gerador\\Gerador.csproj|solutionrelative:gerador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8B911C-71B5-4872-AE6D-C4A240D2DC0C}|Gerador\\Gerador.csproj|c:\\users\\luiza\\onedrive\\\u00E1rea de trabalho\\c#\\projetos\\geradorsenhas\\gerador\\gerador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A8B911C-71B5-4872-AE6D-C4A240D2DC0C}|Gerador\\Gerador.csproj|solutionrelative:gerador\\gerador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gerador",
+              "DocumentMoniker": "C:\\Users\\Luiza\\OneDrive\\\u00C1rea de Trabalho\\C#\\Projetos\\GeradorSenhas\\Gerador\\Gerador.csproj",
+              "RelativeDocumentMoniker": "Gerador\\Gerador.csproj",
+              "ToolTip": "C:\\Users\\Luiza\\OneDrive\\\u00C1rea de Trabalho\\C#\\Projetos\\GeradorSenhas\\Gerador\\Gerador.csproj",
+              "RelativeToolTip": "Gerador\\Gerador.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T22:51:56.394Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luiza\\OneDrive\\\u00C1rea de Trabalho\\C#\\Projetos\\GeradorSenhas\\Gerador\\Program.cs",
               "RelativeDocumentMoniker": "Gerador\\Program.cs",
-              "ToolTip": "C:\\Users\\Luiza\\OneDrive\\\u00C1rea de Trabalho\\C#\\Projetos\\GeradorSenhas\\Gerador\\Program.cs*",
-              "RelativeToolTip": "Gerador\\Program.cs*",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Luiza\\OneDrive\\\u00C1rea de Trabalho\\C#\\Projetos\\GeradorSenhas\\Gerador\\Program.cs",
+              "RelativeToolTip": "Gerador\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T22:46:32.061Z",
               "EditorCaption": ""
