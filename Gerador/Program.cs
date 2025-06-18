@@ -70,7 +70,7 @@ for (int i = 0; i < tamanho; i++)
 }
 
 Console.WriteLine("A senha gerada é: " + senha.ToString());
-
+Console.WriteLine();
 Console.WriteLine("Composição da senha:");
 if (addNumero) Console.WriteLine("  ✓ Números");
 if (addMaiuscula) Console.WriteLine("  ✓ Letras maiúsculas");
